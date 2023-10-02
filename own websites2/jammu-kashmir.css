@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+    background-color: cornsilk;
+}
+.header{
+    align-items: center;
+    text-align: center;
+}
+
+.header>h2{
+    background-color: #b4c854;
+    color: black;
+}
+
+.header>p{
+   
+    background-color: #2d802a;
+    color: wheat;
+}
+
+.header>h3{
+    background-color: #ff9000;
+    color:black;
+}
+
+.maja-avi-gyi{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    max-height: 100vh;
+    font-size: x-large;
+}
+
+.place-1{
+    display: flex;
+    gap: 150px;
+
+    
+
+}
+
+.place-1>p{
+    flex-basis: 60%;
+    margin-right: 50px;
+    color: rgb(255, 48, 0);
+
+}
+
+.place-1>img{
+    flex-basis: 10%;
+    height: 200px;
+    width: 400px;
+}
+
+h4{
+    color:black;
+}

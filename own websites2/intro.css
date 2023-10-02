@@ -1,0 +1,60 @@
+*{
+    background-color: #b0aeae;
+    
+}
+
+
+.header{
+    display: flex;
+    background-color: #101f37;
+}
+
+
+.header>img{
+    margin-left: 10px;
+    margin-top: 10px;
+    display: flex;
+    background-color: #101f37;
+}
+
+
+.header>p{
+    justify-content:space-evenly;
+    margin-left: 650px;
+    flex-basis: 30%;
+    margin-top: 90px;
+    color: white;
+    font-size: large;
+    background-color: #101f37;
+}
+
+
+.main>img{
+    margin-top: 100px;
+    margin-left: 600px;
+    margin-bottom: 0;
+    
+}
+
+.main>p{
+    margin-top: 0px;
+    margin-left: 635px;
+    color: #101f37;
+}
+
+#submit{
+    color:#101f37;
+    cursor: pointer;
+}
+
+#submit:hover{
+    color:aliceblue;
+}
+
+
+#lets1:hover{
+    color:aliceblue;
+    cursor: pointer;
+    font-size: xx-large;
+    /* box-shadow: 4px wheat; */
+}

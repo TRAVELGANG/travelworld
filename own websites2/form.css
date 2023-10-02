@@ -1,0 +1,31 @@
+
+body{
+    background-image: url("E:\website making/taniyas.jpg");
+}
+    *{
+        background-color:#ffffff;
+    color: #000000;
+   
+}
+
+select:hover{
+    font-size: larger;
+    border-color: darkblue;
+
+   font-style: italic;
+  
+}
+
+input:hover{
+    font-size: larger;
+    border-color: darkblue;
+  
+}
+
+/* h5{
+    border: 5px double brown
+} */
+
+select{
+    <a href="https://static2.tripoto.com/media/filter/tst/img/313754/TripDocument/1472582183_bike12_1_of_1.jpg" target="_main"></a>
+}
