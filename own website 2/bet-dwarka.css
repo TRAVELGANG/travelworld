@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+    background-color:rgb(251, 152, 104);
+}
+.header{
+    align-items: center;
+    text-align: center;
+}
+
+.header>h2{
+    background-color: whitesmoke;
+    color: black; 
+}
+
+.header>p{
+    
+    background-color: black;
+    color: wheat;
+}
+
+.header>h3{
+    background-color:#b7a793;
+    color:black;
+}
+
+.maja-avi-gyi{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    max-height: 100vh;
+    font-size: x-large;
+}
+
+.place-1{
+    display:flex;
+    gap: 150px;
+
+    
+
+}
+
+.place-1>p{
+    flex-basis: 60%;
+    margin-right: 50px;
+
+}
+
+.place-1>img{
+    flex-basis: 10%;
+    height: 200px;
+    width: 400px;
+}
+
+h4{
+    color:aliceblue;
+}
